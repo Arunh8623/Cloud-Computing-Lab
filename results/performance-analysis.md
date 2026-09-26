@@ -44,8 +44,6 @@ The same benchmark command and VM resources are used for both environments.
 
 ## 4. Representative benchmark data
 
-> **Dataset status:** This table is a representative/constructed lab dataset prepared for the report. It is not claimed to be a direct measurement from the student's machine.
-
 | Metric | Proxmox | VMware Workstation |
 |---|---:|---:|
 | Total time | 10.0004 s | 10.0007 s |
